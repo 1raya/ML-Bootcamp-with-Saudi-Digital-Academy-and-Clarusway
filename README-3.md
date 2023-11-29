@@ -1,5 +1,17 @@
-<img src="https://github.com/firatolcum/ML-Bootcamp-with-Saudi_Digital-Academy-and-Clarusway/Images/saudi_digital_academy_cover.jpeg
-" align="center" width="200" />
+
+
+
+<p align="center">
+  <img src="https://github.com/1raya/ML-Bootcamp-with-Saudi-Digital-Academy-and-Clarusway/blob/d0bc28e188dcb4f403e4d23f6f3fcaaad73d5e12/Images/084bd753-3b92-40f7-8d9d-4e737e8752c3.png" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/1raya/ML-Bootcamp-with-Saudi-Digital-Academy-and-Clarusway/blob/d0bc28e188dcb4f403e4d23f6f3fcaaad73d5e12/Images/084bd753-3b92-40f7-8d9d-4e737e8752c3.png" width="500"/>
+</p>
+
+
+
+
 # Clarusway Data Analytics <img src="https://github.com/firatolcum/Clarusway_Data_Analytics_Course/blob/master/8-Certificates/Clarusway.png" align="right" width="200" />
 
 ## 📣 About this Data Analytics Course
