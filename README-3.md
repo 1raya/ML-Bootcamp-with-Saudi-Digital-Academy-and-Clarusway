@@ -2,30 +2,40 @@
 
 
 <p align="center">
-  <img src="https://github.com/1raya/ML-Bootcamp-with-Saudi-Digital-Academy-and-Clarusway/blob/d0bc28e188dcb4f403e4d23f6f3fcaaad73d5e12/Images/084bd753-3b92-40f7-8d9d-4e737e8752c3.png" width="500"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/1raya/ML-Bootcamp-with-Saudi-Digital-Academy-and-Clarusway/blob/d0bc28e188dcb4f403e4d23f6f3fcaaad73d5e12/Images/084bd753-3b92-40f7-8d9d-4e737e8752c3.png" width="500"/>
+  <img src="https://github.com/1raya/ML-Bootcamp-with-Saudi-Digital-Academy-and-Clarusway/blob/b15692bf4ce164596706b95c7d5c5f89d61d2f3d/Images/saudi_digital_academy_cover.jpeg" width="1000"/>
 </p>
 
 
 
 
-# Clarusway Data Analytics <img src="https://github.com/firatolcum/Clarusway_Data_Analytics_Course/blob/master/8-Certificates/Clarusway.png" align="right" width="200" />
 
-## 📣 About this Data Analytics Course
-Our Data Analytics Course is designed to teach you how to derive insightful knowledge from raw data to deliver measurable and tangible results to a variety of business stakeholders. This Data Analytics Bootcamp focuses on the practical technical knowledge required to analyze and solve data problems meticulously and quickly.
+<p align="center"> <img src="https://github.com/1raya/ML-Bootcamp-with-Saudi-Digital-Academy-and-Clarusway/blob/d0bc28e188dcb4f403e4d23f6f3fcaaad73d5e12/Images/084bd753-3b92-40f7-8d9d-4e737e8752c3.png" width="300"/>
 
-The Data Analytics Course will teach you the data skills in high-demand by top employers. Learn Python and the statistics you need to be successful. By the end of data analytic training, you will have a portfolio demonstrating your ability to solve complex data problems. After graduating, you will be ready to join a large or small firm or become a freelance data analyst.
 
-You will receive personalized support as you develop the skills needed to be qualified for the highest-paying jobs in the data field. Get prepared for data analytics certifications with us! In addition to career support, we review your profile and portfolio to ensure you’re ready to land a data-driven career. 
+<h1 align="center">Machine Learning Bootcamp Saudi Digital Academy X Clarusway </h1>
 
-This data analytics course is a 13-week program that includes more than **180+ hours** of in-class sessions and a bonus package of **54+ hours** of Career Management Services (CMS). Our specialty CMS activities for the Data Analytics program include sessions on life coaching, resume building, Linkedin training, and interview preparation support. 
 
-In addition to the curriculum, you will have the opportunity to practice what you have learned with **42 hands-on activities + 6 projects + an in-depth capstone project** at the end of the course. We provide the most intensive training in the IT bootcamp market to fully prepare our students for succesful careers!
+
+## 📣 Program Overview:
+This bootcamp is designed to provide trainees with a comprehensive understanding of the basics of machine learning and deep learning. The bootcamp will then cover more advanced topics in machine learning, including deep learning and neural networks. Trainees will learn how to use popular deep learning frameworks.
+
+By the end of the bootcamp, trainees will have a solid understanding of machine learning and deep learning algorithms and their applications. They will be proficient in using Python libraries. They will also have experience in NLP, making them highly competitive in the machine learning job market .
+
+
 
 ## 📂 Course Structures
+CLARUSWAY Machine Learning Path SDA ML-01 Academic Calendar
+
+| Date                | Course/Activity                   | Details                                            |
+|---------------------|-----------------------------------|----------------------------------------------------|
+| 24 Sep - 22 Oct 2023 | Machine Learning (ML)              | 20 Sessions, 4 Case Studies, 3 Projects                 |
+| 23 Oct - 1 Nov 2023  | Deep Learning (DL)                 |       8 Sessions, 2 Assignments, 1 Project        |
+| 2 - 13 Nov 2023      | Natural Language Processing (NLP)  |      8 Sessions, 1 Project           |
+| 14 - 27 Nov 2023     | ML Deployment & Cloud for ML (MLD) |         9 Sessions, 1 Project                      |
+| 28 Nov - 14 Dec 2023 | DS Capstone Project Period         | 3 Capstone Projects   |
+
+
+
 
 There are 5 Certificates in this Data Analytics Career Path:
 
