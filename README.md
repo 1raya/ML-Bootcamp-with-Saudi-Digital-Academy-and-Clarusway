@@ -26,6 +26,15 @@ By the end of the bootcamp, trainees will have a solid understanding of machine 
 - **Hands-On Experience:** In-depth sessions, case studies, and projects to reinforce theoretical concepts.
 - **Practical Skills:** Proficiency in Python libraries and real-world application of machine learning algorithms.
 
+## 💡 Technologies Covered
+
+- **1. Python**
+- **2. TensorFlow**
+- **3. Keras**
+- **4. scikit-learn**
+- **5. AWS (Amazon Web Services)**
+
+
 
 ## 📂 Course Structure
 CLARUSWAY Machine Learning Path SDA ML-01 Academic Calendar
