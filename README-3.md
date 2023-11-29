@@ -37,7 +37,8 @@ CLARUSWAY Machine Learning Path SDA ML-01 Academic Calendar
 
 
 
-There are 5 Certificates in this Data Analytics Career Path:
+XXXXXXXXXX
+
 
 
 - [x] [__Machine Learning (ML)__](https://github.com/firatolcum/Clarusway_Data_Analytics_Course/blob/master/8-Certificates/1-DataAnalysisWithPython.jpg)
