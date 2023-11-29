@@ -96,6 +96,5 @@ XXXXXXXXXX
 * Employee Churn Analysis Project
 * Fraud Detection Project
 
-👉 [Click to go to my portfolio page.](https://firatolcum.com)
 
 ---
