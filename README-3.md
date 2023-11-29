@@ -40,40 +40,47 @@ CLARUSWAY Machine Learning Path SDA ML-01 Academic Calendar
 There are 5 Certificates in this Data Analytics Career Path:
 
 
-- [x] [__Data Analysis with Python__](https://github.com/firatolcum/Clarusway_Data_Analytics_Course/blob/master/8-Certificates/1-DataAnalysisWithPython.jpg)
+- [x] [__Machine Learning (ML)__](https://github.com/firatolcum/Clarusway_Data_Analytics_Course/blob/master/8-Certificates/1-DataAnalysisWithPython.jpg)
 
-**Topics Covered:** Numpy, Pandas
+**Topics Covered:** 
 
-This certificate is given to students who successfully completed the Clarusway Data Analysis with Python Course in the Data Analytics Module after **36 hours** of intensive work. During the course, the student completed **2 assignments and one project**. They completed **50+ hours** of pre-class and post-class activities. During this course, students used many tools and methods such as: Clarusway LMS (Learning Management System), Mentoring (Group & 1on1), LABs, Workshops, Teamworks, Kahoot, Flipgrid, Gamification, Peardeck, Zoom, Slack, etc. as well as the skills specified in the certificate.
-
-
-- [x] [__Data Visualization with Python__](https://github.com/firatolcum/Clarusway_Data_Analytics_Course/blob/master/8-Certificates/2-DataVisualizationWithPython.jpg)
-
-**Topics Covered:** Matplotlib, Seaborn, Plotly
-
-This certificate is given to students who successfully completed the Clarusway Data Visualization with Python Course in the Data Analytics Module after **20 hours** of intensive work. During the course, the student completed **2 assignments and one project**. They completed **50+ hours** of pre-class and post-class activities. During this course, students used many tools and methods such as: Clarusway LMS (Learning Management System), Mentoring (Group & 1on1), LABs, Workshops, Teamworks, Kahoot, Flipgrid, Peardeck, Zoom, Slack, etc. as well as the skills specified in the certificate.
+* Intro to Machine Learning
+* Supervised Learning Models
+* Unsupervised Learning Models
 
 
 
-- [X] [__Data Analysis with SQL__ ](https://github.com/firatolcum/Clarusway_Data_Analytics_Course/blob/master/8-Certificates/3-DataAnalysisWithSQL.jpg)
+- [X] [__Deep Learning (DL)__ ](https://github.com/firatolcum/Clarusway_Data_Analytics_Course/blob/master/8-Certificates/3-DataAnalysisWithSQL.jpg)
 
-**Topics Covered:** Fundamentals of the Relational Database, Data Definition Language (DDL), Data Manipulation Language (DML), Functions, Joins & View, Advanced Grouping Operations, Set Operators, CASE Expression, Subqueries and CTE's, Window Functions, Indexes, DB Connection with Python, SQL Programming Basics.
-
-This certificate is given to students who successfully completed Clarusway Data Analysis with SQL Course in the Clarusway Data Science Bootcamp after **27 hours** live in-class of intensive work. They also successfully completed **many challenging code hands-ons, 2 assignments, and a project**. They completed **50+ hours** of pre-class & post-class activities. During this course, students used many tools and methods such as: Clarusway LMS (Learning Management System), Mentoring (Group & 1on1), LABs, Workshops, Teamworks, Kahoot, Flipgrid, Peardeck, Zoom, Slack, etc. as well as the skills specified in the certificate.
-
-
-- [x] [__Statistics Basics__](https://github.com/firatolcum/Clarusway_Data_Analytics_Course/blob/master/8-Certificates/4-Statistics%20Basics.jpg)
-
-**Topics Covered:** Data Types & Patterns & Graphs, Central Tendency & Dispersion, Correlation & Normal Distribution, Central Limit Theorem & Confidence Intervals, Hypothesis Testing.
-
-This certificate is given to students who successfully completed Clarusway Statistics Course in the Clarusway Data Science Bootcamp after **30 hours** live in-class of intensive work. They also successfully completed **many challenging code hands-ons, 5 assignments**. They completed **50+ hours** of pre-class & post-class activities. During this course, students used many tools and methods such as: Clarusway LMS (Learning Management System), Mentoring (Group & 1on1), LABs, Workshops, Teamworks, Kahoot, Flipgrid, Peardeck, Zoom, Slack, etc. as well as the skills specified in the certificate.
+**Topics Covered:** 
+* Neural Networks
+* Tensorflow Regression
+* Tensorflow Classification
+* CNN Theory
+  
 
 
-- [X] [__Data Visualization with Tableau__](https://github.com/firatolcum/Clarusway_Data_Analytics_Course/blob/master/8-Certificates/5-DataVisualizationWithTableau.jpg)
+- [x] [__Natural Language Processing (NLP)__](https://github.com/firatolcum/Clarusway_Data_Analytics_Course/blob/master/8-Certificates/4-Statistics%20Basics.jpg)
 
-**Topics Covered:** Introduction to Tableau, Visual Analytics, Combining Tables & Data, Calculations, Dashboards
+**Topics Covered:** 
+* NLP Theory
+* NLP Application with ML
+* NLP Application with DL
 
-This certificate is given to students who successfully completed Clarusway Data Visualization with TABLEAU Course in the Clarusway Data Science Bootcamp after **40 hours** live in-class of intensive work. They also successfully completed **many challenging code hands-ons, assignments, and 2 projects**. They completed **50+ hours** of pre-class & post-class activities. During this course, students used many tools and methods such as: Clarusway LMS (Learning Management System), Mentoring (Group & 1on1), LABs, Workshops, Teamworks, Kahoot, Flipgrid, Peardeck, Zoom, Slack, etc. as well as the skills specified in the certificate.
+- [X] [__ML Deployment & Cloud for ML (MLD)__](https://github.com/firatolcum/Clarusway_Data_Analytics_Course/blob/master/8-Certificates/5-DataVisualizationWithTableau.jpg)
+
+**Topics Covered:** 
+* Cloud Computing
+* AWS
+
+
+
+- [X] [__DS Capstone Project__](https://github.com/firatolcum/Clarusway_Data_Analytics_Course/blob/master/8-Certificates/5-DataVisualizationWithTableau.jpg)
+
+**Topics Covered:** 
+* RFM Customer Segmentation & Cohort Analysis
+* Employee Churn Analysis Project
+* Fraud Detection Project
 
 👉 [Click to go to my portfolio page.](https://firatolcum.com)
 
