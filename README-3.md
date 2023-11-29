@@ -75,9 +75,9 @@ There are 5 Certificates in this Data Analytics Career Path:
 
 
 
-- [X] [__DS Capstone Project__](https://github.com/firatolcum/Clarusway_Data_Analytics_Course/blob/master/8-Certificates/5-DataVisualizationWithTableau.jpg)
+- [X] [__DS Capstone Projects__](https://github.com/firatolcum/Clarusway_Data_Analytics_Course/blob/master/8-Certificates/5-DataVisualizationWithTableau.jpg)
 
-**Topics Covered:** 
+**Projects Covered:** 
 * RFM Customer Segmentation & Cohort Analysis
 * Employee Churn Analysis Project
 * Fraud Detection Project
