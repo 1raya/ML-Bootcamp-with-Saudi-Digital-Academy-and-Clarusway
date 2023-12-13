@@ -19,6 +19,10 @@ This bootcamp is designed to provide trainees with a comprehensive understanding
 
 By the end of the bootcamp, trainees will have a solid understanding of machine learning and deep learning algorithms and their applications. They will be proficient in using Python libraries. They will also have experience in NLP, making them highly competitive in the machine learning job market .
 
+## 🔗 **SDA Academy Link:**
+[Himah Bootcamps](https://sda.edu.sa/himahbootcamps)
+
+
 ## 🌟 Key Features:
 
 - **Foundational Knowledge:** Covering the basics of machine learning and deep learning.
