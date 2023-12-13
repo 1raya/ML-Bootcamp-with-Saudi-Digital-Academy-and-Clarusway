@@ -54,8 +54,7 @@ XXXXXXXXXX
 
 
 
-- [x] [__Machine Learning (ML)__](https://github.com/firatolcum/Clarusway_Data_Analytics_Course/blob/master/8-Certificates/1-DataAnalysisWithPython.jpg)
-
+- [x] [__Machine Learning (ML)__]
 **Topics Covered:** 
 
 * Intro to Machine Learning
@@ -64,8 +63,7 @@ XXXXXXXXXX
 
 
 
-- [X] [__Deep Learning (DL)__ ](https://github.com/firatolcum/Clarusway_Data_Analytics_Course/blob/master/8-Certificates/3-DataAnalysisWithSQL.jpg)
-
+- [X] [__Deep Learning (DL)__ ]
 **Topics Covered:** 
 * Neural Networks
 * Tensorflow Regression
@@ -74,14 +72,14 @@ XXXXXXXXXX
   
 
 
-- [x] [__Natural Language Processing (NLP)__](https://github.com/firatolcum/Clarusway_Data_Analytics_Course/blob/master/8-Certificates/4-Statistics%20Basics.jpg)
+- [x] [__Natural Language Processing (NLP)__]
 
 **Topics Covered:** 
 * NLP Theory
 * NLP Application with ML
 * NLP Application with DL
 
-- [X] [__ML Deployment & Cloud for ML (MLD)__](https://github.com/firatolcum/Clarusway_Data_Analytics_Course/blob/master/8-Certificates/5-DataVisualizationWithTableau.jpg)
+- [X] [__ML Deployment & Cloud for ML (MLD)__]
 
 **Topics Covered:** 
 * Cloud Computing
@@ -89,8 +87,7 @@ XXXXXXXXXX
 
 
 
-- [X] [__DS Capstone Projects__](https://github.com/firatolcum/Clarusway_Data_Analytics_Course/blob/master/8-Certificates/5-DataVisualizationWithTableau.jpg)
-
+- [X] [__DS Capstone Projects__]
 **Projects Covered:** 
 * RFM Customer Segmentation & Cohort Analysis
 * Employee Churn Analysis Project
