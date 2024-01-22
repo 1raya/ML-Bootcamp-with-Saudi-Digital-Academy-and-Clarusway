@@ -25,4 +25,4 @@ This file is a compilation of three capstone projects that showcase advanced dat
 
 ## Team
 
-These projects were developed by ( )Class B, Team G-1 ), consisting of dedicated members who brought diverse skills and insights to each project. 
+These projects were developed by (Class B, Team G-1 ), consisting of dedicated members who brought diverse skills and insights to each project. 
