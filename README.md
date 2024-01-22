@@ -96,5 +96,8 @@ CLARUSWAY Machine Learning Path SDA ML-01 Academic Calendar
 * Employee Churn Analysis Project
 * Fraud Detection Project
 
+## My Certificate of Completion 🎉🏅 
+
+
 
 ---
