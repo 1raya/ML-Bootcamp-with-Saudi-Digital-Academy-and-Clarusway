@@ -100,4 +100,6 @@ CLARUSWAY Machine Learning Path SDA ML-01 Academic Calendar
 
 <img src="Certificate/certificate of completion.png" width="1000"> 
 
+<img src="Certificate/bootcamp plan.png" width="1000"> 
+
 ---
