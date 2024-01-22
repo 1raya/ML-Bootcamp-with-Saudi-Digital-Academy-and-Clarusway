@@ -54,7 +54,6 @@ CLARUSWAY Machine Learning Path SDA ML-01 Academic Calendar
 
 
 
-XXXXXXXXXX
 
 
 
