@@ -4,7 +4,7 @@ This file is a compilation of three capstone projects that showcase advanced dat
 
 ## Projects
 
-### [Customer Segmentation](/Customer_Segmentation)
+### [Customer Segmentation](Customer_Segmentation)
 
 - **Objective**: To understand customer behavior by segmenting them based on Recency, Frequency, and Monetary (RFM) values.
 - **Technologies**: Python, Pandas, Scikit-learn, K-Means Clustering
