@@ -98,6 +98,6 @@ CLARUSWAY Machine Learning Path SDA ML-01 Academic Calendar
 
 ## My Certificate of Completion 🎉🏅 
 
-
+<img src="Certificate/certificate of completion.png" width="1000"> 
 
 ---
